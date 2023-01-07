@@ -2,9 +2,10 @@
 
 > Resources, libraries and tools for development and design
 
-## Table of Contents
+## 📃 Table of Contents
 
 - **Development**
+  - [Online editors](#online-editors)
   - [JavaScript](#javascript)
   - [CSS](#css)
   - [Sass](#sass)
@@ -13,8 +14,22 @@
 - **Design**
   - [Photo libraries](#photo-libraries)
   - [Patterns](#patterns)
+- **Learning portals**
+  - [CZ/SK](#czsk)
+  - [EN](#en)
 
-## Development
+## 💻 Development
+
+### Online editors
+
+| Name                                        | Type of code          |
+| ------------------------------------------- | --------------------- |
+| [Codepen](https://codepen.io/)              | HTML, CSS, JavaScript |
+| [CodeSandbox](https://codesandbox.io/)      | JavaScript            |
+| [CodeSandbox](https://codesandbox.io/)      | JavaScript            |
+| [JsFiddle](https://jsfiddle.net/)           | JavaScript            |
+| [Dillinger](https://dillinger.io/)          | Markdown              |
+| [SassMeister](https://www.sassmeister.com/) | Sass playground       |
 
 #### JavaScript
 
@@ -27,7 +42,8 @@
 #### WordPress
 
 <br>
-## Design
+
+## 🎨 Design
 
 #### Photo libraries
 
@@ -52,3 +68,11 @@
 | Name                                               | Description      | Pricing                                                           |
 | -------------------------------------------------- | ---------------- | ----------------------------------------------------------------- |
 | [thepatternlibrary](http://thepatternlibrary.com/) | Website patterns | <img src="https://img.shields.io/badge/Free-green" height="24" /> |
+
+<br>
+
+## 📚 Learning portals
+
+### CZ/SK
+
+### EN
