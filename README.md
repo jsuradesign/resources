@@ -1,6 +1,6 @@
 # Resources
 
-> Resources for development and design
+> Resources, libraries and tools for development and design
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ WordPress
 
 #### Photo libraries
 
-| Name and URL                                                    | Content type                | Type2                                                                       |
+| Name and URL                                                    | Content type                | Pricing                                                                     |
 | --------------------------------------------------------------- | --------------------------- | --------------------------------------------------------------------------- |
 | [Shutterstock](https://www.shutterstock.com/cs/)                | Photos, vectors, videos,... | <img src="https://img.shields.io/badge/Paid-red" height="24" />             |
 | [Freepik](https://www.freepik.com/)                             | Photos, vectors, icons      | <img src="https://img.shields.io/badge/Free and paid-orange" height="24" /> |
@@ -36,3 +36,13 @@ WordPress
 | [burst](https://burst.shopify.com/)                             | Photos                      | <img src="https://img.shields.io/badge/Free-green" height="24" />           |
 | [Old book illustrations](https://www.oldbookillustrations.com/) | Old book illustrations      | <img src="https://img.shields.io/badge/Free-green" height="24" />           |
 | [stocksnap](https://stocksnap.io/)                              | Photos                      | <img src="https://img.shields.io/badge/Free-green" height="24" />           |
+| [openverse](https://wordpress.org/openverse/)                   | Photos, images, audio       | <img src="https://img.shields.io/badge/Free-green" height="24" />           |
+| [wikimedia](https://commons.wikimedia.org/wiki/Main_Page)       | Media library               | <img src="https://img.shields.io/badge/Free-green" height="24" />           |
+| [foodiesfeed](https://www.foodiesfeed.com/)                     | Food photos                 | <img src="https://img.shields.io/badge/Free-green" height="24" />           |
+| [travelcoffeebook](https://travelcoffeebook.com/)               | Travel photos               | <img src="https://img.shields.io/badge/Free-green" height="24" />           |
+
+#### Patterns
+
+| Name                                               | Description      | Pricing                                                           |
+| -------------------------------------------------- | ---------------- | ----------------------------------------------------------------- |
+| [thepatternlibrary](http://thepatternlibrary.com/) | Website patterns | <img src="https://img.shields.io/badge/Free-green" height="24" /> |
