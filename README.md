@@ -4,24 +4,30 @@
 
 ## Table of Contents
 
-- Development
-  - JavaScript
-  - CSS
-  - Sass
-  - PHP
-  - WordPress
-- Design
-  -Photo libraries
+- **Development**
+  - [JavaScript](#javascript)
+  - [CSS](#css)
+  - [Sass](#sass)
+  - [PHP](#php)
+  - [WordPress](#wordpress)
+- **Design**
+  - [Photo libraries](#photo-libraries)
+  - [Patterns](#patterns)
 
-### Development
+## Development
 
-JavaScript
-Css
-Sass
-PHP
-WordPress
+#### JavaScript
 
-### Design
+#### Css
+
+#### Sass
+
+#### PHP
+
+#### WordPress
+
+<br>
+## Design
 
 #### Photo libraries
 
